@@ -1,5 +1,4 @@
-<!-- <h1>Hello World</h1> -->
-<script>
+
    function getComputerChoice(){
        let choices = ['rock', 'paper', 'scissor']
        let random = choices[Math.floor(Math.random() * choices.length)]
